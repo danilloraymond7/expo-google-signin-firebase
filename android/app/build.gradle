@@ -83,9 +83,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.britodev.expogooglesigninfirebase'
+    namespace 'com.danilloraymond.expogooglesigninfirebase'
     defaultConfig {
-        applicationId 'com.britodev.expogooglesigninfirebase'
+        applicationId 'com.danilloraymond.expogooglesigninfirebase'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

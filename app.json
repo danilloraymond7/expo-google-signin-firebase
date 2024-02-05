@@ -15,22 +15,21 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.britodev.expogooglesigninfirebase"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.britodev.expogooglesigninfirebase"
+      "package": "com.danilloraymond.expogooglesigninfirebase"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "27e0125f-ef21-4c50-9e7f-8142b1611d70"
+        "projectId": "e16c57a0-885f-4418-9b97-8e009665c918"
       }
     },
     "scheme": "expo-google-signin-firebase"

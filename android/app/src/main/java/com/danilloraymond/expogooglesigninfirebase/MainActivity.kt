@@ -1,4 +1,4 @@
-package com.britodev.expogooglesigninfirebase
+package com.danilloraymond.expogooglesigninfirebase
 
 import android.os.Build
 import android.os.Bundle
